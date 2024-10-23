@@ -1,0 +1,59 @@
+/* Gør baggrunden lys blå */
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Stil på overskriften */
+h1 {
+    color: #4CAF50;
+    text-align: center;
+    font-size: 3em;
+    font-weight: bolder;
+}
+
+/* Stil på afsnit */
+p {
+    font-size: 1.2em;
+    line-height: 1.5;
+    text-align: center;
+    margin: 10px 20px;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Stil på underoverskrift */
+h2 {
+    color: #2196F3;
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* stil på billeder */
+img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+    padding-right: 25px;
+    color: #dc3ae1;
+}
+/* Stil på links */
+a {
+    display: block;
+    margin: 10px 0;
+    color: #FF5722;
+    text-align: center;
+    text-decoration: none;
+}
+table {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
